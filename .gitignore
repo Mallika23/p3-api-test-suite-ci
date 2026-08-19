@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+_to_delete/
+*.local.md
+combined.py
+Screenshot*.png
